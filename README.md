@@ -1,33 +1,13 @@
-## Hi, welcome to my GitHub! 👋
+# Hey, I'm Óscar 👋
 
+Fullstack developer who made the jump from a completely different career into dev
+and never looked back.
 
- #### Technologies
- [![My Skills](https://skillicons.dev/icons?i=nextjs,react,remix,redux,ts,js,git,html,css,sass,nodejs,expressjs,mongodb,mysql,docker&perline=10&theme=light&)](https://skillicons.dev)
- #### To come...(spoiler alert!😱)
- [![My Skills](https://skillicons.dev/icons?i=jest,dart,flutter,firebase&theme=light)](https://skillicons.dev)...
- 
- <!--
- #### Backend
- [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb&theme=light)](https://skillicons.dev)
- 
- #### Tools
- [![My Skills](https://skillicons.dev/icons?i=git,github,powershell,vscode,webpack&theme=light)](https://skillicons.dev)
- 
- #### To come...(spoiler alert!😱)
- [![My Skills](https://skillicons.dev/icons?i=ts,angular,docker,jest,firebase,nextjs&theme=light)](https://skillicons.dev)...
--->
+Currently building things with React, Next.js, and TypeScript on the frontend,
+Node.js and Express on the backend.
 
-<!--
-**oscarsangpa/oscarsangpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+**Frontend:** React · Next.js · TypeScript · Vue 3 · Tailwind CSS  
+**Backend:** Node.js · Express · PostgreSQL · MongoDB  
+**Mobile:** React Native · Flutter  
+**Other:** Socket.io · Firebase · Supabase · Vitest
